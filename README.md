@@ -1,2 +1,2 @@
-# FPGA_Mobile_ROBOTICS
+# fpga mobile robot
 An FPGA powered mobile bot
